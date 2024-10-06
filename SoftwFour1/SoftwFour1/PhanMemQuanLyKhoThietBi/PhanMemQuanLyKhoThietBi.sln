@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanMemQuanLyKhoThietBi", "PhanMemQuanLyKhoThietBi\PhanMemQuanLyKhoThietBi.csproj", "{49E6651C-5F10-49C6-90A9-1BBD0C555965}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "PhanMemQuanLyKhoThietBi\Setup1\Setup1.vdproj", "{77027F7B-AB58-4519-A164-B756D58D4E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E6651C-5F10-49C6-90A9-1BBD0C555965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E6651C-5F10-49C6-90A9-1BBD0C555965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E6651C-5F10-49C6-90A9-1BBD0C555965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E6651C-5F10-49C6-90A9-1BBD0C555965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77027F7B-AB58-4519-A164-B756D58D4E8A}.Debug|Any CPU.ActiveCfg = Debug
+		{77027F7B-AB58-4519-A164-B756D58D4E8A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7FDEB24-9543-42F1-82ED-491FFB40062D}
+	EndGlobalSection
+EndGlobal
